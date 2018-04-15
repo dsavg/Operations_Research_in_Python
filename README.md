@@ -4,4 +4,4 @@ This repo includes Operations Research related topics, examples and visual repre
 
 - [Linear Programming](Linear_Programming.ipynb)
 
-The code workd for both Python3 and Python2.7
+The code works for both Python3 and Python2.7
